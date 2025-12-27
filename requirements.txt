@@ -1,0 +1,13 @@
+langchain
+ipykernel
+langchain-ollama
+langchain-openai
+python-dotenv
+langchain-community
+pypdf
+bs4
+langchain-text-splitters
+chromadb
+sentence_transformers
+langchain-huggingface
+beautifulsoup4
